@@ -38,7 +38,7 @@
 
 ## 🤝 Let's Connect:
 
-- www.linkedin.com/in/lina-padole-18a051289
+- [LinkedIn](www.linkedin.com/in/lina-padole-18a051289)
 - 📧 linapadole0465@gmail.com
 
 ---
