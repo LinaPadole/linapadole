@@ -2,9 +2,9 @@
 
 **Aspiring Full Stack Developer** | HTML | CSS | JavaScript | Java | DSA
 
-- 🔭 Currently learning Java and Data Structures
+- 🔭 Currently learning  Data Structures Algorithm with Java
 - 🌱 Exploring full stack development step by step
-- 👩‍💻 Participating in GSSoC’25 and starting open source contributions
+- 👩‍💻 Excited to contribute to open-source through GSSoC
 - 📚 Passionate about building real-world projects and solving problems
 - 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/lina-padole-18a051289)
 
@@ -38,7 +38,7 @@
 
 ## 🤝 Let's Connect:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/lina-padole-18a051289)
+- 🔗 [LinkedIn](www.linkedin.com/in/lina-padole-18a051289)
 - 📧 linapadole0465@gmail.com
 
 ---
