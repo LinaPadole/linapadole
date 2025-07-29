@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lina Padole
 
-**Aspiring Full Stack Developer** | HTML | CSS | JavaScript | Java | DSA
+**Aspiring Full Stack Web Developer** | HTML | CSS | JavaScript | Java | DSA
 
 - 🔭 Currently learning  Data Structures Algorithm with Java
 - 🌱 Exploring full stack development step by step
