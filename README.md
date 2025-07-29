@@ -6,7 +6,7 @@
 - 🌱 Exploring full stack development step by step
 - 👩‍💻 Excited to contribute to open-source through GSSoC
 - 📚 Passionate about building real-world projects and solving problems
-- 🌐 Connect with me on [LinkedIn](linkedin.com/in/lina-padole-18a051289)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/lina-padole-18a051289/)
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 🤝 Let's Connect:
 
-- 🔗 [LinkedIn](linkedin.com/in/lina-padole-18a051289)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lina-padole-18a051289/)
 - 📧 linapadole0465@gmail.com
 
 ---
